@@ -1,3 +1,5 @@
+<img src="https://andercoder.com/assets/logo-stroke.svg" width="40"/>
+
 # 👋 Olá, eu sou o Anderson Daniel
 
 Sou **Bacharel em Ciência da Computação** e **Técnico em Informática**, com experiência sólida em desenvolvimento **web e mobile full stack** utilizando **PHP (Laravel)**, **Node.js**, **React.js**, **React Native** e **PostgreSQL**.  
@@ -20,7 +22,7 @@ Sou movido por curiosidade, aprendizado constante e o desejo de transformar idei
 ### 🛠️ Tecnologias e Ferramentas
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,reactnative,nodejs,php,laravel,mysql,postgres,git,gitlab,docker,linux,nginx,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,aiscript,nodejs,php,laravel,mysql,postgres,wordpress,git,gitlab,docker,linux,nginx,vscode" />
 </p>
 
 - **Front-end:** HTML5, CSS3, JavaScript, TypeScript, React.js, React Native  
@@ -29,23 +31,6 @@ Sou movido por curiosidade, aprendizado constante e o desejo de transformar idei
 - **Automação:** n8n, integrações de APIs e fluxos inteligentes  
 - **DevOps:** Git, GitLab CI/CD, Docker, Linux, Nginx  
 - **Outros:** Clean Code, RESTful APIs, boas práticas e versionamento Git Flow  
-
----
-
-### 🏆 Conquistas no GitHub
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=andersondanieln&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10" />
-</p>
-
----
-
-### 📈 Estatísticas do GitHub
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=andersondanieln&show_icons=true&theme=tokyonight" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersondanieln&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
